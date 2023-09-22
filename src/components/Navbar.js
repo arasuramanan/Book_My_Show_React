@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 function Navbar() {
   return <>
   
@@ -17,15 +18,15 @@ function Navbar() {
       <li className="nav-item dropdown">
           <a className="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="/" role="button" aria-haspopup="true" aria-expanded="false">Bengaluru</a>
           <div className="dropdown-menu">
-            <a className="dropdown-item" href="#">Chennai</a>
-            <a className="dropdown-item" href="#">Mumbai</a>
-            <a className="dropdown-item" href="#">Hyderabad</a>
+            <a className="dropdown-item" href="javascript(void)">Chennai</a>
+            <a className="dropdown-item" href="javascript(void)">Mumbai</a>
+            <a className="dropdown-item" href="javascript(void)">Hyderabad</a>
           </div>
         </li>
        
       </ul>
       
-        <a className="btn btn-danger my-2 my-sm-0">Signin</a>
+        <button className="btn btn-danger my-2 my-sm-0">Signin</button>
     
     </div>
   </div>
@@ -33,16 +34,41 @@ function Navbar() {
 
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="#">Movies</a></li>
-    <li class="breadcrumb-item"><a href="#">Stream</a></li>
-    <li class="breadcrumb-item"><a href="#">Events</a></li>
-    <li class="breadcrumb-item"><a href="#">Plays</a></li>
-    <li class="breadcrumb-item"><a href="#">Sports</a></li>
-    <li class="breadcrumb-item"><a href="#">Activities</a></li>
-    <li class="breadcrumb-item"><a href="#">Photos</a></li>
-    <li class="breadcrumb-item"><a href="#">Movie-news</a></li>
+    <li class="breadcrumb-item"><a href="javascript(void)">Movies</a></li>
+    <li class="breadcrumb-item"><a href="javascript(void)">Stream</a></li>
+    <li class="breadcrumb-item"><a href="javascript(void)">Events</a></li>
+    <li class="breadcrumb-item"><a href="javascript(void)">Plays</a></li>
+    <li class="breadcrumb-item"><a href="javascript(void)">Sports</a></li>
+    <li class="breadcrumb-item"><a href="javascript(void)">Activities</a></li>
+    <li class="breadcrumb-item"><a href="javascript(void)">Photos</a></li>
+    <li class="breadcrumb-item"><a href="javascript(void)">Movie-news</a></li>
   </ol>
 </nav>
+
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img class="d-block w-100" src="https://assets-in.bmscdn.com/promotions/cms/creatives/1693472198837_iccdesktop.jpg" alt="First slide"/>
+            </div>
+            <div class="carousel-item">
+                <img class="d-block w-100" src="https://assets-in.bmscdn.com/promotions/cms/creatives/1695071310840_web.jpg" alt="Second slide"/>
+            </div>
+            <div class="carousel-item">
+                <img class="d-block w-100" src="https://assets-in.bmscdn.com/promotions/cms/creatives/1694432878534_lollapaloozarevisedsepdesktop.jpg" alt="Third slide"/>
+            </div>
+            <div class="carousel-item">
+                <img class="d-block w-100" src="https://assets-in.bmscdn.com/promotions/cms/creatives/1695302975505_premierreviseddesktop.jpg" alt="Third slide"/>
+            </div>
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
   </>
   
 }
