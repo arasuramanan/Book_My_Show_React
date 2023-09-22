@@ -1,25 +1,34 @@
-import logo from './logo.svg';
 import './App.css';
+import Navbar from './components/Navbar';
+import './bootstrap.min.css';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import Signin from './components/Signin';
+import { Container } from 'react-bootstrap';
+import Footer from './components/Footer';
+import Screen from './components/Screen';
+import Register from './components/Register';
+import Signup from './components/Signup';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+  return <>
+<Router>
+  <Navbar/>
+  <main>
+    <Container>
+        <Screen/>
+    </Container>
+    <Routes>
+      <Route exact path="/signin" element={<Signin/>} />
+      <Route exact path="/register" element={<Register/>} />
+      <Route exact path="/signup" element={<Signup/>} />
+
+    </Routes>
+    </main>
+    <Footer/>
+ 
+</Router>
+    </> 
+  
 }
 
 export default App;
