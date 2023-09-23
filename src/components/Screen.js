@@ -4,6 +4,7 @@ import { Row, Col } from "react-bootstrap";
 import MovieCards from './MovieCards';
 import ReactStars from 'react-rating-stars-component';
 
+
 function Screen() {
 
   const ratingChanged = (newRating) => {

@@ -7,6 +7,7 @@ import { Container } from 'react-bootstrap';
 import Screen from './components/Screen';
 import Register from './components/Register';
 import Signup from './components/Signup';
+import Footer from './components/Footer';
 
 function App() {
   return <>
@@ -20,11 +21,9 @@ function App() {
       <Route exact path="/signin" element={<Signin/>} />
       <Route exact path="/register" element={<Register/>} />
       <Route exact path="/signup" element={<Signup/>} />
-
     </Routes>
     </main>
-
- 
+    <Footer />
 </Router>
     </> 
   
