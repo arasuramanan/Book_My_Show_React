@@ -23,7 +23,7 @@ function App() {
       <Route exact path="/signup" element={<Signup/>} />
     </Routes>
     </main>
-    <Footer />
+     <Footer /> 
 </Router>
     </> 
   
