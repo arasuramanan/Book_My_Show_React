@@ -4,7 +4,6 @@ import './bootstrap.min.css';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Signin from './components/Signin';
 import { Container } from 'react-bootstrap';
-import Footer from './components/Footer';
 import Screen from './components/Screen';
 import Register from './components/Register';
 import Signup from './components/Signup';
@@ -24,7 +23,7 @@ function App() {
 
     </Routes>
     </main>
-    <Footer/>
+
  
 </Router>
     </> 

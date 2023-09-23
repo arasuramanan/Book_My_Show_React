@@ -6,7 +6,7 @@ const movies = [
         'description':
         'The film tells the story of a love-struck man, stealing the identity of his former college foe, to pursue his lady love, and the eventual repercussions he has to face when his cover is blown before he could come clean.',
         'category': 'Tamil',
-        'price': 200,
+         // 'price': 200,
         'rating': 7.6,
         'numReviews': 258989,
     },
@@ -17,7 +17,7 @@ const movies = [
         'description':
         'The story is about three sisters living with their widowed mother and their ailing, bed-ridden grandfather, all of them members of a wealthy family in a town in Tamil Nadu.',
         'category': 'Tamil',
-        'price': 200,
+        // 'price': 200,
         'rating': 9.2,
         'numReviews': 78446,
     },
@@ -28,7 +28,7 @@ const movies = [
         'description':
         'Vinnaithaandi Varuvaayaa explores the complicated relationship between a Hindu Tamil boy, Karthik Sivakumar, and a Malayali Christian girl, Jessie from Alappuzha, Kerala.',
         'category': 'Tamil',
-        'price': 200,
+        // 'price': 200,
         'rating': 8.4,
         'numReviews': 1276656,
     },
@@ -39,7 +39,7 @@ const movies = [
         'description':
         'This the third film directed by KV Anand after Kana Kandein, Ayan. This film is said to be a political action thriller about the adventures of a photo journalist, played by Jeeva, who finds himself in trouble when investigating a mystery case as a gang of musclemen are after him.',
         'category': 'Tamil',
-        'price': 200,
+        // 'price': 200,
         'rating': 9.8,
         'numReviews': 1056656,
     },
@@ -50,7 +50,7 @@ const movies = [
         'description':
         'The film follows the crux of the epic Ramayana, with a ruthless cop named Dev Prakash Subramaniam, who is on a quest to find a tribal leader-turned naxalite named Veeraiya as he had kidnapped his wife Raagini, who is suffering from Stockholm syndrome and begins to develop emotions for Veeraiya',
         'category': 'Tamil',
-        'price': 200,
+        // 'price': 200,
         'rating': 6.7,
         'numReviews': 3356555,
     },
@@ -61,7 +61,7 @@ const movies = [
         'description':
         'When his fiancees niece is kidnapped, a stoic army doctor and his motley team launch a rescue operation in which they need both wit and their wits. ',
         'category': 'Tamil',
-        'price': 200,
+        // 'price': 200,
         'rating': 8.3,
         'numReviews': 589989,
     },
@@ -72,7 +72,7 @@ const movies = [
         'description':
         'The film revolves around a youngster who embarks on a road trip with his lady-love during which he meets with an accident which causes things to get out of control.',
         'category': 'Tamil',
-        'price': 200,
+        // 'price': 200,
         'rating': 6.5,
         'numReviews': 3556578,
     },
@@ -83,7 +83,7 @@ const movies = [
         'description':
         'Velu, an aspiring kabaddi player, goes to Madurai to participate in a regional match, where he rescues Dhanalakshmi from Muthupandi, a powerful man keen on marrying the girl against her will.',
         'category': 'Tamil',
-        'price': 200,
+        // 'price': 200,
         'rating': 7.1,
         'numReviews': 4878776,
     },
@@ -94,7 +94,7 @@ const movies = [
         'description':
         'A special investigator assigned a case of serial killings discovers the case is not what it seems to be, and leading down this path is only going to end in a war between everyone involved.',
         'category': 'Tamil',
-        'price': 200,
+        // 'price': 200,
         'rating': 8.6,
         'numReviews': 8989876,
     },
@@ -105,7 +105,7 @@ const movies = [
         'description':
         'Kabali, an aged don based out of Malaysia, who has spent two-and-a-half decades in prison, goes in search of his wife, whom he loses in an unexpected incident. He also has plans to avenge the actions of few dreaded gangsters who currently rule the roost in town.',
         'category': 'Tamil',
-        'price': 200,
+        // 'price': 200,
         'rating': 7.4,
         'numReviews': 7798855,
     },
@@ -116,7 +116,7 @@ const movies = [
         'description':
         'The film illustrates Suriya, an Indian Army Major who learns about his father Krishnans death when he is on a rescue mission. He then starts reminiscing about the bond he shared with Krishnan and the stories related to him.',
         'category': 'Tamil',
-        'price': 200,
+        // 'price': 200,
         'rating': 8.9,
         'numReviews': 68985768,
     },
@@ -127,7 +127,7 @@ const movies = [
         'description':
         'Sathyadev, a sincere police officer, tries to stop an organ trafficking racket. But he is unaware that the man performing the illegal trade is the same person who killed his beloved. A teenagers father is brutally murdered, spurring him to become a forthright police officer.',
         'category': 'Tamil',
-        'price': 200,
+        // 'price': 200,
         'rating': 6.2,
         'numReviews': 2568989,
     },
@@ -138,7 +138,7 @@ const movies = [
         'description':
         'The music was composed by Anirudh Ravichander with editing done by Vivek Harshan and cinematography by Tirru. The film revolves around Kaali, a hostel warden crosses paths with a group of criminals where things takes an interesting turn.',
         'category': 'Tamil',
-        'price': 200,
+        // 'price': 200,
         'rating': 8.1,
         'numReviews': 566887,
     },
@@ -149,7 +149,7 @@ const movies = [
         'description':
         ' In New York, A psychologist conducts a session with a nuclear oncologist Nirupama, who begins to confide that hers was a marriage of convenience that provided a safe haven for pursuing her Ph.D. in the US for the past 3 years and that her husband Vishwanath aka Viz, a Kathak teacher, who has feminine behaviour.',
         'category': 'Tamil',
-        'price': 200,
+        // 'price': 200,
         'rating': 8.3,
         'numReviews': 8989897,
     },
@@ -160,7 +160,7 @@ const movies = [
         'description':
         'Set in the backdrop of North Madras, Kaali (Karthi) and his friend Anbu (Kalaiyarasan), gets embroiled in a brutal political rivalry, between two factions of a political party after laying claim to a wall. Murali G. Praveen K. L. Madras is the second directorial venture of Ranjith after Attakathi.',
         'category': 'Tamil',
-        'price': 200,
+        // 'price': 200,
         'rating': 7.4,
         'numReviews': 46565232,
     },
@@ -171,7 +171,7 @@ const movies = [
         'description':
         'Written and directed by Lokesh Kanagaraj, Leo is an action-thriller with Thalapathy Vijay playing the lead role. Sanjay Dutt, Trisha, Arjun Sarja, Gautham Menon, Mysskin and Priya Anand will be seen in pivotal roles. Rathna Kumar and Deeraj Vaidy co-wrote the script with Lokesh Kanagaraj.',
         'category': 'Tamil',
-        'price': 200,
+        // 'price': 200,
         'rating': 8.4,
         'numReviews': 5656565,
     },
@@ -182,7 +182,7 @@ const movies = [
         'description':
         'Master is an action film from India about a professor, JD, who is sent to teach at a juvenile reform school for three months. He clashes with an unscrupulous man, Bhavani, who controls the schools young inmates to cover up his own criminal activities.',
         'category': 'Tamil',
-        'price': 200,
+        // 'price': 200,
         'rating': 9.5,
         'numReviews': 6666576,
     },
@@ -193,7 +193,7 @@ const movies = [
         'description':
         'The film revolves around the reunion of former students from the batch of 1996, twenty-two years after their graduation. The reunion also serves as an opportunity for two former lovers, Ram and Jaanu, to resolve issues surrounding their breakup.',
         'category': 'Tamil',
-        'price': 200,
+        // 'price': 200,
         'rating': 9.6,
         'numReviews': 789856598,
     },
@@ -204,7 +204,7 @@ const movies = [
         'description':
         'The caretakers at an orphanage inform a young girl named Amudha that an important person will meet her the next day, and she waits anxiously. Meanwhile, Inspector Bejoy and his team catch a van smuggling 900 kilos of cocaine. The drugs and the criminals smuggling them are locked up at the commissioners office.',
         'category': 'Tamil',
-        'price': 200,
+        // 'price': 200,
         'rating': 8.5,
         'numReviews': 16565656,
     },
@@ -215,7 +215,7 @@ const movies = [
         'description':
         'A police officer who fights for justice sees his family die due to the enemies he has made as a cop, making him change his identity for the safety of himself and his daughter. However, his enemies eventually learn about his new identity, giving him the chance to seek revenge.',
         'category': 'Tamil',
-        'price': 200,
+        // 'price': 200,
         'rating': 7.4,
         'numReviews': 7998565,
     },
@@ -226,7 +226,7 @@ const movies = [
         'description':
         'A youngster with OCD sets out to save a girl from the clutches of an international medical mafia with the help of a teddy bear which behaves like humans.',
         'category': 'Tamil',
-        'price': 200,
+        // 'price': 200,
         'rating': 7.3,
         'numReviews': 656454656,
     },
@@ -237,7 +237,7 @@ const movies = [
         'description':
         'A man raised by gangsters tries to reform them, and a hired job to protect a village presents him with the perfect opportunity. A man raised by gangsters tries to reform them, and a hired job to protect a village presents him with the perfect opportunity.',
         'category': 'Tamil',
-        'price': 200,
+        // 'price': 200,
         'rating': 7.7,
         'numReviews': 7889856565,
     },
@@ -248,7 +248,7 @@ const movies = [
         'description':
         'The film Taare Zameen Par (Stars upon the Ground) portrays the tormented life at school and at home of a child with dyslexia and his eventual success after his artistic talents are discovered by his art teacher at the boarding school.',
         'category': 'Tamil',
-        'price': 200,
+        // 'price': 200,
         'rating': 9.6,
         'numReviews': 1565650,
     },
@@ -259,7 +259,7 @@ const movies = [
         'description':
         'The farmers of Champaner village in the Central India Agency depend on monsoon rains for their livelihood. A delayed start to the monsoon has them worried and they head to the ruling British cantonment, to ask the King of Champaner, Puran Singh for an exemption from the years land tax (Lagaan).',
         'category': 'Tamil',
-        'price': 200,
+        // 'price': 200,
         'rating': 8.3,
         'numReviews': 833208865,
     },
@@ -270,7 +270,7 @@ const movies = [
         'description':
         'A young college graduate misses a bus to a job interview - the film examines the possible outcomes had he caught the bus. A young college graduate misses a bus to a job interview - the film examines the possible outcomes had he caught the bus.',
         'category': 'Tamil',
-        'price': 200,
+        // 'price': 200,
         'rating': 7.6,
         'numReviews': 79986667,
     },
@@ -281,7 +281,7 @@ const movies = [
         'description':
         'Lesa Lesa story is all set in a hill station (Ooty) where a rich man comes with his five grand daughters (four of them are Mumbai models) for vacation. The fifth girl (Trisha) is very smart, and she is the favourite of the grandfather. But she has some secret, which nobody knows.',
         'category': 'Tamil',
-        'price': 200,
+        // 'price': 200,
         'rating': 7.9,
         'numReviews': 45665665,
     },
@@ -292,7 +292,7 @@ const movies = [
         'description':
         'Lesa Lesa story is all set in a hill station (Ooty) where a rich man comes with his five grand daughters (four of them are Mumbai models) for vacation. The fifth girl (Trisha) is very smart, and she is the favourite of the grandfather. But she has some secret, which nobody knows.',
         'category': 'Tamil',
-        'price': 200,
+        // 'price': 200,
         'rating': 7.9,
         'numReviews': 55656568,
     },
@@ -303,7 +303,7 @@ const movies = [
         'description':
         'The film stars an ensemble cast including Aamir Khan, Siddharth, R. Madhavan, Sharman Joshi, Atul Kulkarni, Soha Ali Khan, Kunal Kapoor and British actress Alice Patten. It follows a British film student traveling to India to document the story of five freedom fighters of the Indian revolutionary movement.',
         'category': 'Tamil',
-        'price': 200,
+        // 'price': 200,
         'rating': 8.4,
         'numReviews': 656799665,
     },
@@ -314,7 +314,7 @@ const movies = [
         'description':
         'Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them idiots.',
         'category': 'Tamil',
-        'price': 200,
+        // 'price': 200,
         'rating': 9.6,
         'numReviews': 566565566,
     },
